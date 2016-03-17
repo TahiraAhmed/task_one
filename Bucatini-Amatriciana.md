@@ -1,2 +1,2 @@
 # Bucatini Amatriciana
-## adding a new sentence
+## adding a new recipe
