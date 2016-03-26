@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-tahira 
-=======
-Ahmed 
->>>>>>> Pasta
+"This file has not to be removed" 
